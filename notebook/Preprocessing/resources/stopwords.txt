@@ -5,6 +5,16 @@ yours
 yourself
 yourselves
 you
+http
+https
+yout
+youtu
+youtub
+amzn
+com
+bt
+bit
+ly
 yond
 yonder
 yon
